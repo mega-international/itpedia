@@ -17,3 +17,10 @@ This add-on runs on the HOPEX Platform. Minimum platform level is V4 CP4.
 ## Authors
 * **Erwan GALLAIS-HAMONNO** - *Product Owner*
 * **Marouane MAJID** - *Lead Dev* 
+* **Radouane ABAINAGH** -*Dev*
+* **Mohamed AIT MOUSSA** -*Dev*
+* **Soufiane TAYANE** -*Dev*
+  
+  
+## License
+This project is licensed under the HOPEX License - see the LICENSE.md file for details
