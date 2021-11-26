@@ -12,7 +12,8 @@ This add-on runs on the HOPEX Platform. Minimum platform level is V4 CP4.
 5. Choose Hopex Application installation Folder  
 6. ![image](https://user-images.githubusercontent.com/61796830/143611209-dfa17a79-9197-410c-9cd6-6e471c9ebcae.png)
 7. After the installation is finished import in the SystemDB the itpediahf.mol from <Hopex Application installation>\Utilities\Modules\ITPedia\Files
-8. Restart Hopex Processes Services and Web Application 
+8. Compile The Metamodel
+9. Restart Hopex Processes Services and Web Application 
 
 ### Configuration 
 1. From Adminstration.exe configure the ITPedia connection
