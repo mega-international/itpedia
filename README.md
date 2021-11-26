@@ -14,6 +14,10 @@ This add-on runs on the HOPEX Platform. Minimum platform level is V4 CP4.
 7. After the installation is finished import in the SystemDB the itpediahf.mol from <Hopex Application installation>\Utilities\Modules\ITPedia\Files
 8. Restart Hopex Processes Services and Web Application 
 
+### Configuration 
+###From Adminstration.exe configure the ITPedia connection
+![image](https://user-images.githubusercontent.com/61796830/143613661-ca0f6bd4-aa41-4baf-8181-8b12f0eeb9e1.png)
+ 
 ## Authors
 * **Erwan GALLAIS-HAMONNO** - *Product Owner*
 * **Marouane MAJID** - *Lead Dev* 
