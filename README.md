@@ -22,7 +22,7 @@ This add-on runs on the HOPEX Platform. Minimum platform level is V4 CP4.
 * **Radouane ABAINAGH** -*Dev*
 * **Mohamed AIT MOUSSA** -*Dev*
 * **Soufiane TAYANE** -*Dev*
-  
+* **Said BOUSSAG** -*QA*  
   
 ## License
 This project is licensed under the HOPEX License - see the LICENSE.md file for details.
