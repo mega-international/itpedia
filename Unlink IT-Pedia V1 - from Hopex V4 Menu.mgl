@@ -1,0 +1,13 @@
+
+- Execution     : Export (2022/04/27 07:57:41)
+- File exported : C:\Users\mmd.NTAS\Desktop\Export MGL\IT Pedia\Unlink IT-Pedia V1 - from Hopex V4 Menu.mgl
+- Environment   : \\ntas\data\ccmdev\900_006\site de definition\EnvTool900_006
+- Database      : Définition des produits
+- User          : MAJID Marouane
+
+-  "Working Environment Group Template" "ITPM - Asset Catalogs"
+-  "Topics Templates" "ITPM IT-Pedia"
+.Disconnect ."~wKjagUfSMXfC[Working Environment Group Template]" "ITPM - Asset Catalogs" ."~BLjayIhSMbtC[Topics Templates]" "ITPM IT-Pedia" -
+        .CHK "FGMdN0wIU9A3JVBrxuElVr)10zzQJsMgEHvQ" -
+        ."~810000000X00[LinkUpdateDate]"                     "2022/04/27 07:56:18" -
+        ."~920000000b40[_LinkModifier]"                      "0zzQJsMgEHvQ"
